@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/isloading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="正在加载框"/>
+    <Button
+        android:id="@+id/xuanzexiangce"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="选择相册对话框"/>
+
+
+</LinearLayout>

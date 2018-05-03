@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!--Seerbar-->
+    <color name="seekbar_bg">#359c21</color>
+    <color name="seekbar_dark_bg">#ffffff</color>
+    <color name="text_tab">#939495</color>
+    <color name="text_borrow_remain">#ef880f</color>
+    <color name="bg_progress_tab">#f1f2f3</color>
+    <color name="bg_bt_perfect_info">#8FD3F6</color>
+    <color name="bg_bt_upload">#D30F25</color>
+    <color name="bg_bt_perfect_contacts">#EAF0E9</color>
+
+    <!-- step-->
+    <color name="auth_tab1">#7ec7e6</color>
+    <color name="auth_tab2">#f0cd06</color>
+    <color name="auth_tab3">#49b31c</color>
+    <color name="auth_tab4">#cd334c</color>
+    <color name="auth_tab5">#2ba3a5</color>
+
+    <color name="global">#00a0ea</color>
+
+    <!-- -->
+    <color name="account_approve">#35b21e</color>
+    <color name="transparent_background">#50000000</color>
+    <color name="account_ing">#e49c0d</color>
+    <color name="account_refuse">#e2000b</color>
+    <color name="account_black">#000000</color>
+    <color name="account_blue">#3460ca</color>
+
+    <color name="text_product_detail">#eaae24</color>
+    <color name="text_account_suggest">#3460ca</color>
+    <color name="dangred">#e1593e</color>
+
+    <color name="delay_pay_back">#a41a20</color>
+    <color name="shouye_fenqi">#2794ff</color>
+
+    <color name="fenqi_bg">#01b6d3</color>
+    <color name="fenqi_bg_dark">#007bb0</color>
+
+    <color name="tab1">#35b21e</color>
+    <color name="cycle_image_bg">#999999</color>
+    <color name="heise">#131313</color>
+    <color name="toumingheise">#99131313</color>
+
+    <color name="tuijianren">#23232e</color>
+    <color name="gonggaoColor">#F5F5F6</color>
+    <color name="yello">#f6b32c</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="qianhuise">#e6e6e6</color>
+    <color name="white">#ffffff</color>
+    <color name="down">#e6e6e6</color>
+    <color name="down1">#b7b7b7</color>
+    <color name="black">#000000</color>
+    <color name="tab2">#00a0ea</color>
+    <color name="gray">#747272</color>
+    <color name="bg_borrow">#f2f3f4</color>
+    <color name="divider">#d5dadd</color>
+    <!--SwipeRefreshLayout -->
+    <color name="blue">#5677fc</color>
+    <color name="bottomblue">#1296db</color>
+    <color name="purple">#9933CC</color>
+    <color name="green">#00ce03</color>
+    <color name="orange">#FF8800</color>
+    <color name="tab3">#ffbe2b</color>
+    <color name="theme_color">#35b11d</color>
+    <!--线条颜色-->
+    <color name="lineGrey">#F8F8F8</color>
+    <color name="lineGreyAndBlack">#dddbdb</color>
+    <color name="lineGreyAndBlack1">#b9b9b9</color>
+    <color name="black_line">#FF909090</color>
+    <color name="darker_gray">#aaa</color>
+
+    <color name="startlink">#ff610b</color>
+    <!--字体颜色-->
+    <color name="fontcolor">#282828</color>
+    <color name="fontcolorgreen">#8f8e8e</color>
+    <color name="yellow">#f5c55d</color>  <!--黄色-->
+    <color name="fontcolorGrey">#b1b1b1</color>
+    <color name="huangse1">#fefef0</color>
+    <color name="huizi">#9f9f9f</color>
+    <color name="heihui">#4e4e4e</color>
+
+    <color name="backgroundhui">#f7f7f7</color>
+
+
+
+    <!-- popwindow-->
+    <color name="popwindows_gray">#7f000000</color>
+    <color name="credit_hui">#c4c4c4</color> <!--授信认证灰-->
+
+
+
+    <color name="norenzheng">#929292</color>
+    <color name="red">#ff0000</color>
+</resources>
