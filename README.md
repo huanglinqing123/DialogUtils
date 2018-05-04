@@ -5,13 +5,12 @@
 
 ### 使用方式：
 #### maven：
- <dependency>
- <groupId>com.huanglinqing</groupId>
- <artifactId>dialogutils</artifactId>
- <version>1.0.0</version>
- <type>pom</type>
- </dependency>
- 
+      <dependency>
+       <groupId>com.huanglinqing</groupId>
+       <artifactId>dialogutils</artifactId>
+       <version>1.0.0</version>
+       <type>pom</type>
+    </dependency>
 #### gradle：
  compile 'com.huanglinqing:dialogutils:1.0.0'
 
