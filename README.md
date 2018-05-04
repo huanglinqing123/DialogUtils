@@ -15,7 +15,7 @@
  compile 'com.huanglinqing:dialogutils:1.0.0'
 
 ### 正在加载对话框
-DialogUtil.dimissloading();.dialogloading(MainActivity.this,"正在登陆",false,false);<br>
+DialogUtil.dialogloading(MainActivity.this,"正在登陆",false,false);<br>
 不需要.show()，返回alertdialog类型的dialog<br>
 第一个参数是this，第二个参数是提示内容，第三个参数表示对话框显示时是否可以点击屏幕，第四个参数表示对话框显示时是否可以点击回退键<br>
 取消对话框：dialog.dimissloading();<br>
